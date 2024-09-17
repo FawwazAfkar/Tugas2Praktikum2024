@@ -1,7 +1,9 @@
 # Tugas Pertemuan 2
 
 Nama : Fawwaz Afkar Muzakky
+
 NIM : H1D022067
+
 Shift Baru: C
 
 # Proses Passing Data dari Form Menuju Tampilan
